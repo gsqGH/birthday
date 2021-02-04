@@ -29,7 +29,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "我们开始吧",
+        turn_on: "美女点这里，让我们开始吧",
         play: "来点音乐？",
         bannar_coming: "要不颜色也在炫酷些？",
         balloons_flying: "好像少点东西",

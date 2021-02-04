@@ -24,8 +24,8 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "亲爱的小媳媳": "./imgs/xiaokeai.png",
-        "永远爱你～～": "./imgs/birthday.jpg",
+        "亲爱的小媳媳": "./imgs/one.png",
+        "永远爱你～～": "./imgs/two.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {

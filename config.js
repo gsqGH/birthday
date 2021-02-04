@@ -24,12 +24,12 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "亲爱的小媳媳": "./imgs/one.png",
+        "亲爱的小媳媳": "./imgs/o.jpg",
         "永远爱你～～": "./imgs/two.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "美女点这里，让我们开始吧",
+        turn_on: "小媳媳点这里，让我们开始吧",
         play: "来点音乐？",
         bannar_coming: "要不颜色也在炫酷些？",
         balloons_flying: "好像少点东西",
